@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container-fluid {
+  height: 100%; /* Đảm bảo phần tử cha có chiều cao 100% */
+  overflow: auto; /* Cho phép cuộn nếu nội dung vượt ra khỏi kích thước của phần tử cha */
+}
+

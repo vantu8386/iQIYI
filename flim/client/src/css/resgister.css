@@ -1,0 +1,9 @@
+.register {
+    box-shadow: rgba(84, 117, 81, 0.2) 0px 7px 29px 0px;
+    border-radius: 8px;
+    background-color: #f5f5f5;
+  }
+
+  .--btn {
+    background-color: #42b72a;
+  }

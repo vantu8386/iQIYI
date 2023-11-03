@@ -1,0 +1,41 @@
+.shorten-text {
+  max-width: 150px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.category_update {
+  border: none;
+  background-color: rgb(255, 174, 0);
+  padding: 5px 20px;
+  border-radius: 5px;
+  font-weight: 500;
+  margin-right: 5px;
+}
+.category_delete {
+  border: none;
+  background-color: red;
+  padding: 5px 20px;
+  border-radius: 5px;
+  font-weight: 500;
+  margin-left: 5px;
+}
+.category_add {
+  margin-left: 10px;
+  border: none;
+  background-color: rgb(69, 198, 0);
+  padding: 5px 20px;
+  font-weight: 500;
+  border-radius: 5px;
+}
+
+.img_name{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+tbody tr td:nth-child(3), td:nth-child(7){
+  width: 200px;
+  /* background-color: blue; */
+}

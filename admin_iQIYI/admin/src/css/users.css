@@ -1,0 +1,37 @@
+.action {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.khoa {
+  display: flex;
+  justify-content: center;
+  gap: 3px;
+  align-items: center;
+  background-color: red;
+  border: none;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+.mo_khoa {
+  display: flex;
+  justify-content: center;
+  gap: 3px;
+  align-items: center;
+  background-color: rgb(33, 198, 33);
+  border: none;
+  padding: 5px 21px;
+  border-radius: 5px;
+}
+
+.lich_su {
+  display: flex;
+  justify-content: center;
+  gap: 3px;
+  align-items: center;
+  background-color: rgb(194, 95, 211);
+  border: none;
+  padding: 5px 7px;
+  border-radius: 5px;
+}
